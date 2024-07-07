@@ -1,2 +1,2 @@
 ##  code-in-react
-practice react js
+Practice react-js
